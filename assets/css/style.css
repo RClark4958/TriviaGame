@@ -1,0 +1,30 @@
+body {
+  background-image: url(../images/funky-lines.png);
+}
+
+header {
+  text-align: center;
+  width: 960px;
+}
+
+#wrapper {
+  font-family: 'Unlock', cursive;
+  width: 960px;
+  text-align: center;
+  padding: 36px;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  text-align: left;
+  padding: 12px;
+
+}
+
+button {
+  font-size: 24px;
+  margin-top: 20px;
+}
